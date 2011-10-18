@@ -1,0 +1,11 @@
+*.project
+*.settings
+*.csv
+*.classpath
+*.class
+*/classes/*
+*target*
+*.log
+*.swp
+*DS*Store
+*springsource.png
